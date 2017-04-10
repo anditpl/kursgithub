@@ -8,6 +8,14 @@ a {
   color: lightblue;
 }
 
+.img {
+  width: 100%;
+  height: auto;
+  color: black;
+  border-color: lightblue;
+  border-width: 3px;
+}
+
 @import "compass/css3";
 
 * {
