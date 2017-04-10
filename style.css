@@ -4,6 +4,10 @@ body {
   font: 1em 'PT Sans', sans-serif;
 }
 
+a {
+  color: lightblue;
+}
+
 @import "compass/css3";
 
 * {
